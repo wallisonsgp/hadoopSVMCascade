@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="SVMHadoop/src"/>
-	<classpathentry exported="true" kind="lib" path="C:/hadoop/hadoop-ant-1.2.1.jar"/>
 	<classpathentry exported="true" kind="lib" path="C:/git/hadoopSVMCascade/lib/hadoop-client-1.2.1.jar"/>
 	<classpathentry exported="true" kind="lib" path="C:/git/hadoopSVMCascade/lib/hadoop-core-1.2.1.jar"/>
 	<classpathentry exported="true" kind="lib" path="C:/git/hadoopSVMCascade/lib/hadoop-examples-1.2.1.jar"/>
@@ -30,9 +29,9 @@
 	<classpathentry exported="true" kind="lib" path="C:/git/hadoopSVMCascade/lib/commons-math-2.1.jar"/>
 	<classpathentry exported="true" kind="lib" path="C:/git/hadoopSVMCascade/lib/commons-net-3.1.jar"/>
 	<classpathentry exported="true" kind="lib" path="C:/git/hadoopSVMCascade/lib/core-3.1.1.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/hadoop/lib/hadoop-capacity-scheduler-1.2.1.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/hadoop/lib/hadoop-fairscheduler-1.2.1.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/hadoop/lib/hadoop-thriftfs-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/git/hadoopSVMCascade/lib/hadoop-capacity-scheduler-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/git/hadoopSVMCascade/lib/hadoop-fairscheduler-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/git/hadoopSVMCascade/lib/hadoop-thriftfs-1.2.1.jar"/>
 	<classpathentry exported="true" kind="lib" path="C:/git/hadoopSVMCascade/lib/hsqldb-1.8.0.10.jar"/>
 	<classpathentry exported="true" kind="lib" path="C:/git/hadoopSVMCascade/lib/jackson-core-asl-1.8.8.jar"/>
 	<classpathentry exported="true" kind="lib" path="C:/git/hadoopSVMCascade/lib/jackson-mapper-asl-1.8.8.jar"/>
@@ -55,5 +54,7 @@
 	<classpathentry exported="true" kind="lib" path="C:/git/hadoopSVMCascade/lib/slf4j-api-1.4.3.jar"/>
 	<classpathentry exported="true" kind="lib" path="C:/git/hadoopSVMCascade/lib/slf4j-log4j12-1.4.3.jar"/>
 	<classpathentry exported="true" kind="lib" path="C:/git/hadoopSVMCascade/lib/xmlenc-0.52.jar"/>
+	<classpathentry kind="lib" path="C:/git/hadoopSVMCascade/lib/fest-assert-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/git/hadoopSVMCascade/lib/hadoop-ant-1.2.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
